@@ -7,7 +7,9 @@
         {
             "matches": [
                 "https://www.amazon.com/gp/registry/wishlist/*",
-                "http://www.amazon.com/gp/registry/wishlist/*"
+                "http://www.amazon.com/gp/registry/wishlist/*",
+                "https://www.amazon.co.uk/gp/registry/wishlist/*",
+                "http://www.amazon.co.uk/gp/registry/wishlist/*"
             ],
             "js": [
                 "jquery-2.2.3.min.js", "content.js"
